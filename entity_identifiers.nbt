@@ -68,7 +68,7 @@ summonable  bid hasspawnegg idminecraft:armor_standridz
 summonable bid hasspawnegg id minecraft:command_block_minecartrid�
 summonable bid hasspawnegg idminecraft:chest_minecartrid�
 summonable bid hasspawnegg idminecraft:tnt_minecartrid�
-summonable bid hasspawneggidminecraft:zombierid@
+summonable bid hasspawnegg idminecraft:hopper_minecartrid�
 summonable bid hasspawneggidminecraft:zombie_horserid6
 summonable bid hasspawneggidminecraft:dolphinrid>
 summonable bid hasspawneggidminecraft:pufferfishrid�
@@ -81,13 +81,15 @@ summonable bid hasspawnegg idminecraft:ender_dragonridj
 summonable bid hasspawneggidminecraft:donkeyrid0
 summonable bid hasspawneggidminecraft:tropicalfishrid�
 summonable bid hasspawnegg idminecraft:witherridh
-summonable bid hasspawneggidminecraft:parrotrid<
 summonable bid hasspawneggidminecraft:skeleton_horserid4
 summonable bid hasspawneggidminecraft:pandarid�
 summonable bid hasspawneggidminecraft:shulkerridl
 summonable bid hasspawneggidminecraft:llamarid:
 summonable bid hasspawneggidminecraft:horserid.
 summonable bid hasspawneggidminecraft:chickenrid
+summonable bid hasspawneggidminecraft:parrotrid<
+summonable bid hasspawneggidminecraft:trader_llamarid�
+summonable bid hasspawneggidminecraft:silverfishridN
 summonable bid hasspawneggid
 minecraft:pigrid
 summonable bid hasspawneggidminecraft:sheeprid
@@ -107,14 +109,13 @@ summonable bid hasspawnegg idminecraft:iron_golemrid(
 summonable bid hasspawneggidminecraft:salmonrid�
 summonable bid hasspawneggidminecraft:elder_guardianridd
 summonable bid hasspawneggidminecraft:ocelotrid,
+summonable bid hasspawneggidminecraft:zombierid@
 summonable bid hasspawneggidminecraft:creeperridB
 summonable bid hasspawneggidminecraft:skeletonridD
 summonable bid hasspawneggidminecraft:spiderridF
 summonable bid hasspawneggidminecraft:zombie_pigmanridH
 summonable bid hasspawneggidminecraft:slimeridJ
-summonable bid hasspawnegg idminecraft:hopper_minecartrid�
 summonable bid hasspawneggidminecraft:endermanridL
-summonable bid hasspawneggidminecraft:silverfishridN
 summonable bid hasspawneggidminecraft:cave_spiderridP
 summonable bid hasspawneggidminecraft:ghastridR
 summonable bid hasspawneggidminecraft:magma_cuberidT
