@@ -214,6 +214,6 @@
         "PlayerUpdateEntityOverridesPacket": 325,
         "PlayerLocationPacket": 326,
         "ClientboundControlSchemeSetPacket": 327,
-        "ScriptModuleDebugUtilities": 328
+        "ScriptModuleDebugUtilities::ServerScriptDebugDrawerPacket": 328
     }
 }
