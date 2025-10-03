@@ -34,9 +34,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:empty_map"
-            }
+            "minecraft:empty_map"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -59,9 +57,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:tnt_minecart"
-            }
+            "minecraft:tnt_minecart"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -124,9 +120,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -423,9 +417,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -528,9 +520,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -827,9 +817,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -886,9 +874,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -1185,9 +1171,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -1264,9 +1248,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -1543,9 +1525,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -1622,9 +1602,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -1921,9 +1899,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -2000,9 +1976,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -2299,9 +2273,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -2358,9 +2330,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -2657,9 +2627,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -2736,9 +2704,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -3035,9 +3001,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -3114,9 +3078,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -3413,9 +3375,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -3448,9 +3408,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_dye"
-            }
+            "minecraft:magenta_dye"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -3469,9 +3427,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_dye"
-            }
+            "minecraft:light_gray_dye"
         ],
         "priority": 2,
         "unlockingIngredients": [
@@ -3490,9 +3446,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_dye"
-            }
+            "minecraft:red_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -3514,9 +3468,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3537,9 +3489,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3560,9 +3510,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3583,9 +3531,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3606,9 +3552,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3629,9 +3573,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3652,9 +3594,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3675,9 +3615,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3698,9 +3636,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3721,9 +3657,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3744,9 +3678,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3767,9 +3699,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3790,9 +3720,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3866,9 +3794,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3889,9 +3815,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -3937,9 +3861,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magma_cream"
-            }
+            "minecraft:magma_cream"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -4012,9 +3934,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4035,9 +3955,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4058,9 +3976,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4081,9 +3997,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4104,9 +4018,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4127,9 +4039,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4150,9 +4060,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4173,9 +4081,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4196,9 +4102,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4219,9 +4123,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4242,9 +4144,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4265,9 +4165,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4288,9 +4186,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4364,9 +4260,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4387,9 +4281,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4407,9 +4299,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_dye"
-            }
+            "minecraft:light_blue_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -4475,9 +4365,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4498,9 +4386,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4521,9 +4407,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4544,9 +4428,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4567,9 +4449,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4590,9 +4470,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4613,9 +4491,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4636,9 +4512,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4659,9 +4533,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4682,9 +4554,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4705,9 +4575,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4728,9 +4596,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4751,9 +4617,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4774,9 +4638,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4850,9 +4712,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -4877,9 +4737,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:writable_book"
-            }
+            "minecraft:writable_book"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -4914,9 +4772,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:rabbit_stew"
-            }
+            "minecraft:rabbit_stew"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -4951,9 +4807,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:rabbit_stew"
-            }
+            "minecraft:rabbit_stew"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -4996,9 +4850,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:beetroot_soup"
-            }
+            "minecraft:beetroot_soup"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -5042,9 +4894,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5065,9 +4915,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5088,9 +4936,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5111,9 +4957,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5134,9 +4978,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5157,9 +4999,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5180,9 +5020,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5203,9 +5041,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5226,9 +5062,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5249,9 +5083,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5272,9 +5104,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5295,9 +5125,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5318,9 +5146,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5394,9 +5220,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5417,9 +5241,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -5757,9 +5579,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:suspicious_stew"
-            }
+            "minecraft:suspicious_stew"
         ],
         "priority": 0
     },
@@ -5892,9 +5712,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:mushroom_stew"
-            }
+            "minecraft:mushroom_stew"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -5921,9 +5739,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_dye"
-            }
+            "minecraft:pink_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6506,9 +6322,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cherry_chest_boat"
-            }
+            "minecraft:cherry_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6531,9 +6345,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:chest_minecart"
-            }
+            "minecraft:chest_minecart"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6556,9 +6368,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pale_oak_chest_boat"
-            }
+            "minecraft:pale_oak_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6606,9 +6416,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:acacia_chest_boat"
-            }
+            "minecraft:acacia_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6629,9 +6437,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bamboo_chest_raft"
-            }
+            "minecraft:bamboo_chest_raft"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6652,9 +6458,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:birch_chest_boat"
-            }
+            "minecraft:birch_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6675,9 +6479,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:dark_oak_chest_boat"
-            }
+            "minecraft:dark_oak_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6698,9 +6500,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:jungle_chest_boat"
-            }
+            "minecraft:jungle_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6721,9 +6521,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:mangrove_chest_boat"
-            }
+            "minecraft:mangrove_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6744,9 +6542,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:oak_chest_boat"
-            }
+            "minecraft:oak_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6767,9 +6563,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:spruce_chest_boat"
-            }
+            "minecraft:spruce_chest_boat"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6791,9 +6585,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_chiseled_copper"
-            }
+            "minecraft:waxed_chiseled_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -6812,9 +6604,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_dye"
-            }
+            "minecraft:gray_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6837,9 +6627,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:mossy_cobblestone"
-            }
+            "minecraft:mossy_cobblestone"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6862,9 +6650,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:mossy_cobblestone"
-            }
+            "minecraft:mossy_cobblestone"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -6886,9 +6672,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -6909,9 +6693,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -6932,9 +6714,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -6955,9 +6735,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -6978,9 +6756,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7001,9 +6777,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7024,9 +6798,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7047,9 +6819,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7070,9 +6840,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7093,9 +6861,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7116,9 +6882,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7139,9 +6903,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7162,9 +6924,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7238,9 +6998,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7261,14 +7019,35 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_wool"
-            }
+            "minecraft:brown_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
             {
                 "name": "minecraft:yellow_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_copper_bars"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
             }
         ]
     },
@@ -7285,9 +7064,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_copper"
-            }
+            "minecraft:waxed_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -7328,7 +7105,7 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:copper_door"
+                "name": "minecraft:copper_chain"
             },
             {
                 "meta": 32767,
@@ -7337,14 +7114,90 @@
         ],
         "output": [
             {
-                "name": "minecraft:waxed_copper_door"
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_copper_chain"
             }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chain"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_copper_chest"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_door"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_copper_door"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:copper_door"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_copper_golem_statue"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
             }
         ]
     },
@@ -7361,15 +7214,39 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_copper_grate"
-            }
+            "minecraft:waxed_copper_grate"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:copper_grate"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
             }
         ]
     },
@@ -7408,9 +7285,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_dye"
-            }
+            "minecraft:blue_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -7433,9 +7308,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_cut_copper"
-            }
+            "minecraft:waxed_cut_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -7509,9 +7382,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7532,9 +7403,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7555,9 +7424,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7578,9 +7445,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7601,9 +7466,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7624,9 +7487,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7647,9 +7508,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7670,9 +7529,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7693,9 +7550,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7716,9 +7571,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7739,9 +7592,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7762,9 +7613,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7785,9 +7634,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7861,9 +7708,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7884,9 +7729,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cyan_wool"
-            }
+            "minecraft:cyan_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -7934,9 +7777,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:granite"
-            }
+            "minecraft:granite"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -7959,9 +7800,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:ender_eye"
-            }
+            "minecraft:ender_eye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -7984,9 +7823,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_exposed_chiseled_copper"
-            }
+            "minecraft:waxed_exposed_chiseled_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -8009,15 +7846,36 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_exposed_copper"
-            }
+            "minecraft:waxed_exposed_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:exposed_copper"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_bars"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_exposed_copper_bars"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
             }
         ]
     },
@@ -8052,7 +7910,7 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:exposed_copper_door"
+                "name": "minecraft:exposed_copper_chain"
             },
             {
                 "meta": 32767,
@@ -8061,14 +7919,90 @@
         ],
         "output": [
             {
-                "name": "minecraft:waxed_exposed_copper_door"
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_exposed_copper_chain"
             }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chain"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_exposed_copper_chest"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_door"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_exposed_copper_door"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:exposed_copper_door"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_golem_statue"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_exposed_copper_golem_statue"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
             }
         ]
     },
@@ -8085,15 +8019,39 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_exposed_copper_grate"
-            }
+            "minecraft:waxed_exposed_copper_grate"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:exposed_copper_grate"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_copper_lantern"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_exposed_copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
             }
         ]
     },
@@ -8136,9 +8094,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_exposed_cut_copper"
-            }
+            "minecraft:waxed_exposed_cut_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -8205,6 +8161,32 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:exposed_lightning_rod"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_exposed_lightning_rod"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:frame"
             },
             {
@@ -8213,9 +8195,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:glow_frame"
-            }
+            "minecraft:glow_frame"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -8241,9 +8221,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8264,9 +8242,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8287,9 +8263,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8310,9 +8284,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8333,9 +8305,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8356,9 +8326,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8379,9 +8347,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8402,9 +8368,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8425,9 +8389,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8448,9 +8410,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8471,9 +8431,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8494,9 +8452,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8517,9 +8473,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8593,9 +8547,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8616,9 +8568,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:gray_wool"
-            }
+            "minecraft:gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8639,9 +8589,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8662,9 +8610,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8685,9 +8631,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8708,9 +8652,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8731,9 +8673,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8754,9 +8694,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8777,9 +8715,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8800,9 +8736,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8823,9 +8757,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8846,9 +8778,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8869,9 +8799,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8892,9 +8820,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8915,9 +8841,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -8991,9 +8915,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9014,9 +8936,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:green_wool"
-            }
+            "minecraft:green_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9494,9 +9414,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:hopper_minecart"
-            }
+            "minecraft:hopper_minecart"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -9518,9 +9436,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9541,9 +9457,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9564,9 +9478,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9587,9 +9499,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9610,9 +9520,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9633,9 +9541,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9656,9 +9562,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9679,9 +9583,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9702,9 +9604,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9725,9 +9625,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9748,9 +9646,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9771,9 +9667,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9794,9 +9688,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9870,9 +9762,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9893,9 +9783,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_wool"
-            }
+            "minecraft:black_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9917,9 +9805,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:flint_and_steel"
-            }
+            "minecraft:flint_and_steel"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -9945,9 +9831,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9968,9 +9852,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -9991,9 +9873,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10014,9 +9894,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10037,9 +9915,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10060,9 +9936,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10083,9 +9957,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10106,9 +9978,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10129,9 +9999,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10152,9 +10020,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10175,9 +10041,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10198,9 +10062,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10221,9 +10083,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10297,9 +10157,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10320,9 +10178,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_wool"
-            }
+            "minecraft:blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10343,9 +10199,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10366,9 +10220,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10389,9 +10241,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10412,9 +10262,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10435,9 +10283,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10458,9 +10304,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10481,9 +10325,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10504,9 +10346,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10527,9 +10367,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10550,9 +10388,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10573,9 +10409,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10596,9 +10430,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10619,9 +10451,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10695,9 +10525,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10718,9 +10546,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_blue_wool"
-            }
+            "minecraft:light_blue_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10741,9 +10567,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10764,9 +10588,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10787,9 +10609,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10810,9 +10630,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10833,9 +10651,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10856,9 +10672,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10879,9 +10693,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10902,9 +10714,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10925,9 +10735,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10948,9 +10756,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10971,9 +10777,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -10994,9 +10798,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11017,9 +10819,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11093,9 +10893,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11116,14 +10914,38 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_wool"
-            }
+            "minecraft:light_gray_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
             {
                 "name": "minecraft:yellow_wool"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_lightning_rod"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
             }
         ]
     },
@@ -11158,9 +10980,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_dye"
-            }
+            "minecraft:white_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -11182,9 +11002,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11205,9 +11023,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11228,9 +11044,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11251,9 +11065,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11274,9 +11086,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11297,9 +11107,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11320,9 +11128,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11343,9 +11149,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11366,9 +11170,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11389,9 +11191,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11412,9 +11212,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11435,9 +11233,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11458,9 +11254,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11534,9 +11328,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11557,9 +11349,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:lime_wool"
-            }
+            "minecraft:lime_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11580,9 +11370,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11603,9 +11391,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11626,9 +11412,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11649,9 +11433,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11672,9 +11454,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11695,9 +11475,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11718,9 +11496,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11741,9 +11517,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11764,9 +11538,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11787,9 +11559,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11810,9 +11580,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11833,9 +11601,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11856,9 +11622,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11932,9 +11696,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -11955,9 +11717,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:magenta_wool"
-            }
+            "minecraft:magenta_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12005,9 +11765,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:packed_mud"
-            }
+            "minecraft:packed_mud"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -12054,9 +11812,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:netherite_ingot"
-            }
+            "minecraft:netherite_ingot"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -12075,9 +11831,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_dye"
-            }
+            "minecraft:orange_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -12099,9 +11853,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12122,9 +11874,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12145,9 +11895,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12168,9 +11916,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12191,9 +11937,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12214,9 +11958,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12237,9 +11979,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12260,9 +12000,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12283,9 +12021,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12306,9 +12042,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12329,9 +12063,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12352,9 +12084,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12375,9 +12105,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12451,9 +12179,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12474,9 +12200,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_wool"
-            }
+            "minecraft:orange_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -12494,9 +12218,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_dye"
-            }
+            "minecraft:orange_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -12515,9 +12237,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_dye"
-            }
+            "minecraft:light_gray_dye"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -12540,9 +12260,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_oxidized_chiseled_copper"
-            }
+            "minecraft:waxed_oxidized_chiseled_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -12565,15 +12283,36 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_oxidized_copper"
-            }
+            "minecraft:waxed_oxidized_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:oxidized_copper"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_bars"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_oxidized_copper_bars"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
             }
         ]
     },
@@ -12608,7 +12347,7 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:oxidized_copper_door"
+                "name": "minecraft:oxidized_copper_chain"
             },
             {
                 "meta": 32767,
@@ -12617,14 +12356,90 @@
         ],
         "output": [
             {
-                "name": "minecraft:waxed_oxidized_copper_door"
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_oxidized_copper_chain"
             }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chain"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_oxidized_copper_chest"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_door"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_oxidized_copper_door"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:oxidized_copper_door"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_golem_statue"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_oxidized_copper_golem_statue"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
             }
         ]
     },
@@ -12641,15 +12456,39 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_oxidized_copper_grate"
-            }
+            "minecraft:waxed_oxidized_copper_grate"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:oxidized_copper_grate"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_copper_lantern"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_oxidized_copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
             }
         ]
     },
@@ -12692,9 +12531,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_oxidized_cut_copper"
-            }
+            "minecraft:waxed_oxidized_cut_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -12761,6 +12598,32 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:oxidized_lightning_rod"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_oxidized_lightning_rod"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:paper"
             },
             {
@@ -12769,9 +12632,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:creeper_banner_pattern"
-            }
+            "minecraft:creeper_banner_pattern"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -12794,9 +12655,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:skull_banner_pattern"
-            }
+            "minecraft:skull_banner_pattern"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -12819,9 +12678,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:field_masoned_banner_pattern"
-            }
+            "minecraft:field_masoned_banner_pattern"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -12844,9 +12701,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:mojang_banner_pattern"
-            }
+            "minecraft:mojang_banner_pattern"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -13394,9 +13249,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:flower_banner_pattern"
-            }
+            "minecraft:flower_banner_pattern"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -13419,9 +13272,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bordure_indented_banner_pattern"
-            }
+            "minecraft:bordure_indented_banner_pattern"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -13465,9 +13316,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13488,9 +13337,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13511,9 +13358,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13534,9 +13379,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13557,9 +13400,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13580,9 +13421,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13603,9 +13442,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13626,9 +13463,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13649,9 +13484,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13672,9 +13505,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13695,9 +13526,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13718,9 +13547,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13741,9 +13568,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13817,9 +13642,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13840,9 +13663,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_wool"
-            }
+            "minecraft:pink_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -13860,9 +13681,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_dye"
-            }
+            "minecraft:pink_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -13881,9 +13700,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pink_dye"
-            }
+            "minecraft:pink_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -13924,9 +13741,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_dye"
-            }
+            "minecraft:red_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -13952,9 +13767,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:pumpkin_pie"
-            }
+            "minecraft:pumpkin_pie"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -13980,9 +13793,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14003,9 +13814,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14026,9 +13835,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14049,9 +13856,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14072,9 +13877,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14095,9 +13898,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14118,9 +13919,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14141,9 +13940,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14164,9 +13961,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14187,9 +13982,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14210,9 +14003,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14233,9 +14024,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14256,9 +14045,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14332,9 +14119,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14355,9 +14140,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:purple_wool"
-            }
+            "minecraft:purple_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14378,9 +14161,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14401,9 +14182,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14424,9 +14203,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14447,9 +14224,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14470,9 +14245,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14493,9 +14266,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14516,9 +14287,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14539,9 +14308,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14562,9 +14329,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14585,9 +14350,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14608,9 +14371,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14631,9 +14392,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14654,9 +14413,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14730,9 +14487,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14753,9 +14508,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_wool"
-            }
+            "minecraft:red_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -14773,9 +14526,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:red_dye"
-            }
+            "minecraft:red_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -14824,9 +14575,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:fermented_spider_eye"
-            }
+            "minecraft:fermented_spider_eye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -14849,9 +14598,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:mossy_stone_bricks"
-            }
+            "minecraft:mossy_stone_bricks"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -14874,9 +14621,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:mossy_stone_bricks"
-            }
+            "minecraft:mossy_stone_bricks"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -14917,9 +14662,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:orange_dye"
-            }
+            "minecraft:orange_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -14942,9 +14685,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_weathered_chiseled_copper"
-            }
+            "minecraft:waxed_weathered_chiseled_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -14967,15 +14708,36 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_weathered_copper"
-            }
+            "minecraft:waxed_weathered_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:weathered_copper"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_bars"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_weathered_copper_bars"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_bars"
             }
         ]
     },
@@ -15010,7 +14772,7 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:weathered_copper_door"
+                "name": "minecraft:weathered_copper_chain"
             },
             {
                 "meta": 32767,
@@ -15019,14 +14781,90 @@
         ],
         "output": [
             {
-                "name": "minecraft:waxed_weathered_copper_door"
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:waxed_weathered_copper_chain"
             }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chain"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_chest"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:waxed_weathered_copper_chest"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_chest"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_door"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            "minecraft:waxed_weathered_copper_door"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:weathered_copper_door"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_golem_statue"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:waxed_weathered_copper_golem_statue"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_golem_statue"
             }
         ]
     },
@@ -15043,15 +14881,39 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_weathered_copper_grate"
-            }
+            "minecraft:waxed_weathered_copper_grate"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
                 "meta": 32767,
                 "name": "minecraft:weathered_copper_grate"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_copper_lantern"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQcAaGFuZ2luZwAA",
+                "name": "minecraft:waxed_weathered_copper_lantern"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:copper_lantern"
             }
         ]
     },
@@ -15094,9 +14956,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:waxed_weathered_cut_copper"
-            }
+            "minecraft:waxed_weathered_cut_copper"
         ],
         "priority": 1,
         "unlockingIngredients": [
@@ -15163,6 +15023,32 @@
         "input": [
             {
                 "meta": 32767,
+                "name": "minecraft:weathered_lightning_rod"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:honeycomb"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAABCwBwb3dlcmVkX2JpdAAA",
+                "name": "minecraft:waxed_weathered_lightning_rod"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:lightning_rod"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
                 "name": "minecraft:white_dye"
             },
             {
@@ -15170,9 +15056,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15193,9 +15077,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15216,9 +15098,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15239,9 +15119,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15262,9 +15140,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15285,9 +15161,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15308,9 +15182,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15331,9 +15203,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15354,9 +15224,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15377,9 +15245,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15400,9 +15266,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15423,9 +15287,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15446,9 +15308,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15469,9 +15329,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15545,9 +15403,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_wool"
-            }
+            "minecraft:white_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15565,9 +15421,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:light_gray_dye"
-            }
+            "minecraft:light_gray_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -15586,9 +15440,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_dye"
-            }
+            "minecraft:yellow_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -15607,9 +15459,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_dye"
-            }
+            "minecraft:black_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -15631,9 +15481,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15654,9 +15502,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15677,9 +15523,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15700,9 +15544,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15723,9 +15565,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15746,9 +15586,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15769,9 +15607,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15792,9 +15628,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15815,9 +15649,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15838,9 +15670,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15861,9 +15691,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15884,9 +15712,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15907,9 +15733,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -15930,9 +15754,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -16006,9 +15828,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_wool"
-            }
+            "minecraft:yellow_wool"
         ],
         "priority": 50,
         "unlockingIngredients": [
@@ -16070,9 +15890,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -16389,9 +16207,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -16448,9 +16264,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -16747,9 +16561,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -16826,9 +16638,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -17125,9 +16935,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -17204,9 +17012,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -17503,9 +17309,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -17582,9 +17386,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -17881,9 +17683,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -17960,9 +17760,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -18259,9 +18057,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:bed"
-            }
+            "minecraft:bed"
         ],
         "priority": 50
     },
@@ -18951,9 +18747,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:white_dye"
-            }
+            "minecraft:white_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -18970,9 +18764,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:brown_dye"
-            }
+            "minecraft:brown_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -18989,9 +18781,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:yellow_dye"
-            }
+            "minecraft:yellow_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -19247,9 +19037,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:black_dye"
-            }
+            "minecraft:black_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -19472,9 +19260,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:blue_dye"
-            }
+            "minecraft:blue_dye"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -19500,9 +19286,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:book"
-            }
+            "minecraft:book"
         ],
         "priority": 0,
         "unlockingIngredients": [
@@ -19624,9 +19408,7 @@
             }
         ],
         "output": [
-            {
-                "name": "minecraft:string"
-            }
+            "minecraft:string"
         ],
         "priority": 0
     },
@@ -19694,6 +19476,25 @@
             {
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
                 "name": "minecraft:purpur_block"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
+            }
+        ],
+        "output": [
+            "minecraft:quartz_bricks"
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
+                "name": "minecraft:quartz_block"
             }
         ]
     },
@@ -19790,20 +19591,18 @@
         "block": "stonecutter",
         "input": [
             {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:quartz_block"
+                "meta": 32767,
+                "name": "minecraft:andesite"
             }
         ],
         "output": [
-            {
-                "name": "minecraft:quartz_bricks"
-            }
+            "minecraft:polished_andesite"
         ],
-        "priority": 2,
+        "priority": 3,
         "unlockingIngredients": [
             {
-                "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
-                "name": "minecraft:quartz_block"
+                "meta": 32767,
+                "name": "minecraft:andesite"
             }
         ]
     },
@@ -19924,27 +19723,6 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:andesite"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:polished_andesite"
-            }
-        ],
-        "priority": 3,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:andesite"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
                 "name": "minecraft:basalt"
             }
         ],
@@ -19959,6 +19737,63 @@
             {
                 "meta": 32767,
                 "name": "minecraft:basalt"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blackstone"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_polished_blackstone"
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blackstone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blackstone"
+            }
+        ],
+        "output": [
+            "minecraft:polished_blackstone"
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blackstone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blackstone"
+            }
+        ],
+        "output": [
+            "minecraft:polished_blackstone_bricks"
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:blackstone"
             }
         ]
     },
@@ -20153,69 +19988,6 @@
             {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "name": "minecraft:polished_blackstone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:blackstone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:blackstone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_polished_blackstone"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:blackstone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:blackstone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:polished_blackstone"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:blackstone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:blackstone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:polished_blackstone_bricks"
             }
         ],
         "priority": 2,
@@ -20437,6 +20209,25 @@
             }
         ],
         "output": [
+            "minecraft:chiseled_copper"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cut_copper"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cut_copper"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:cut_copper_stairs"
@@ -20466,27 +20257,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:cut_copper"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:cut_copper"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_copper"
-            }
-        ],
-        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -20582,6 +20352,25 @@
             {
                 "meta": 32767,
                 "name": "minecraft:dark_prismarine"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diorite"
+            }
+        ],
+        "output": [
+            "minecraft:polished_diorite"
+        ],
+        "priority": 3,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:diorite"
             }
         ]
     },
@@ -20690,27 +20479,6 @@
             }
         ],
         "priority": 2,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:diorite"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:diorite"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:polished_diorite"
-            }
-        ],
-        "priority": 3,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -20929,6 +20697,25 @@
             }
         ],
         "output": [
+            "minecraft:exposed_chiseled_copper"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_cut_copper"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:exposed_cut_copper"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:exposed_cut_copper_stairs"
@@ -20970,19 +20757,17 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:exposed_cut_copper"
+                "name": "minecraft:granite"
             }
         ],
         "output": [
-            {
-                "name": "minecraft:exposed_chiseled_copper"
-            }
+            "minecraft:polished_granite"
         ],
-        "priority": 0,
+        "priority": 3,
         "unlockingIngredients": [
             {
                 "meta": 32767,
-                "name": "minecraft:exposed_cut_copper"
+                "name": "minecraft:granite"
             }
         ]
     },
@@ -21091,27 +20876,6 @@
             }
         ],
         "priority": 2,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:granite"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:granite"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:polished_granite"
-            }
-        ],
-        "priority": 3,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21307,6 +21071,25 @@
             }
         ],
         "output": [
+            "minecraft:chiseled_nether_bricks"
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_brick"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:nether_brick"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 2,
@@ -21333,27 +21116,6 @@
             {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "name": "minecraft:nether_brick_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:nether_brick"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:nether_brick"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_nether_bricks"
             }
         ],
         "priority": 2,
@@ -21485,6 +21247,25 @@
             }
         ],
         "output": [
+            "minecraft:oxidized_chiseled_copper"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_cut_copper"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:oxidized_cut_copper"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:oxidized_cut_copper_stairs"
@@ -21514,27 +21295,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:oxidized_cut_copper"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:oxidized_cut_copper"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:oxidized_chiseled_copper"
-            }
-        ],
-        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21584,6 +21344,44 @@
             {
                 "meta": 32767,
                 "name": "minecraft:polished_andesite"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_blackstone"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_polished_blackstone"
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_blackstone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_blackstone"
+            }
+        ],
+        "output": [
+            "minecraft:polished_blackstone_bricks"
+        ],
+        "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_blackstone"
             }
         ]
     },
@@ -21711,48 +21509,6 @@
             {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "name": "minecraft:polished_blackstone_wall"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_blackstone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_blackstone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_polished_blackstone"
-            }
-        ],
-        "priority": 2,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_blackstone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_blackstone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:polished_blackstone_bricks"
             }
         ],
         "priority": 2,
@@ -21929,6 +21685,44 @@
             }
         ],
         "output": [
+            "minecraft:chiseled_tuff_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_tuff"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_tuff"
+            }
+        ],
+        "output": [
+            "minecraft:tuff_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_tuff"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:polished_tuff"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:polished_tuff_stairs"
@@ -22059,48 +21853,6 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:polished_tuff"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_tuff_bricks"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_tuff"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_tuff"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:tuff_bricks"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:polished_tuff"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
                 "name": "minecraft:prismarine_bricks"
             }
         ],
@@ -22195,6 +21947,25 @@
             }
         ],
         "output": [
+            "minecraft:chiseled_resin_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:resin_bricks"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:resin_brick_stairs"
@@ -22246,27 +22017,6 @@
             }
         ],
         "priority": 3,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:resin_bricks"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:resin_bricks"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_resin_bricks"
-            }
-        ],
-        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22419,6 +22169,25 @@
             }
         ],
         "output": [
+            "minecraft:chiseled_stone_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone_bricks"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:stone_brick_stairs"
@@ -22482,19 +22251,74 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:stone_bricks"
+                "name": "minecraft:tuff"
             }
         ],
         "output": [
-            {
-                "name": "minecraft:chiseled_stone_bricks"
-            }
+            "minecraft:chiseled_tuff"
         ],
         "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
-                "name": "minecraft:stone_bricks"
+                "name": "minecraft:tuff"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:tuff"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_tuff_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:tuff"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:tuff"
+            }
+        ],
+        "output": [
+            "minecraft:polished_tuff"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:tuff"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:tuff"
+            }
+        ],
+        "output": [
+            "minecraft:tuff_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:tuff"
             }
         ]
     },
@@ -22704,82 +22528,17 @@
         "input": [
             {
                 "meta": 32767,
-                "name": "minecraft:tuff"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_tuff"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:tuff"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:tuff"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_tuff_bricks"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:tuff"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:tuff"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:polished_tuff"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:tuff"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:tuff"
-            }
-        ],
-        "output": [
-            {
                 "name": "minecraft:tuff_bricks"
             }
         ],
+        "output": [
+            "minecraft:chiseled_tuff_bricks"
+        ],
         "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
-                "name": "minecraft:tuff"
+                "name": "minecraft:tuff_bricks"
             }
         ]
     },
@@ -22840,27 +22599,6 @@
             {
                 "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
                 "name": "minecraft:tuff_brick_wall"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:tuff_bricks"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:tuff_bricks"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_tuff_bricks"
             }
         ],
         "priority": 0,
@@ -22992,6 +22730,25 @@
             }
         ],
         "output": [
+            "minecraft:waxed_chiseled_copper"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_cut_copper"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_cut_copper"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:waxed_cut_copper_stairs"
@@ -23021,27 +22778,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:waxed_cut_copper"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:waxed_cut_copper"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:waxed_chiseled_copper"
-            }
-        ],
-        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23170,6 +22906,25 @@
             }
         ],
         "output": [
+            "minecraft:waxed_exposed_chiseled_copper"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_exposed_cut_copper"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_exposed_cut_copper"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:waxed_exposed_cut_copper_stairs"
@@ -23199,27 +22954,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:waxed_exposed_cut_copper"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:waxed_exposed_cut_copper"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:waxed_exposed_chiseled_copper"
-            }
-        ],
-        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23348,6 +23082,25 @@
             }
         ],
         "output": [
+            "minecraft:waxed_oxidized_chiseled_copper"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_oxidized_cut_copper"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_oxidized_cut_copper"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:waxed_oxidized_cut_copper_stairs"
@@ -23377,27 +23130,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:waxed_oxidized_cut_copper"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:waxed_oxidized_cut_copper"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:waxed_oxidized_chiseled_copper"
-            }
-        ],
-        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23526,6 +23258,25 @@
             }
         ],
         "output": [
+            "minecraft:waxed_weathered_chiseled_copper"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_weathered_cut_copper"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:waxed_weathered_cut_copper"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:waxed_weathered_cut_copper_stairs"
@@ -23555,27 +23306,6 @@
             }
         ],
         "priority": 1,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:waxed_weathered_cut_copper"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "meta": 32767,
-                "name": "minecraft:waxed_weathered_cut_copper"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:waxed_weathered_chiseled_copper"
-            }
-        ],
-        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23704,6 +23434,25 @@
             }
         ],
         "output": [
+            "minecraft:weathered_chiseled_copper"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_cut_copper"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:weathered_cut_copper"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:weathered_cut_copper_stairs"
@@ -23744,27 +23493,6 @@
         "block": "stonecutter",
         "input": [
             {
-                "meta": 32767,
-                "name": "minecraft:weathered_cut_copper"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:weathered_chiseled_copper"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:weathered_cut_copper"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
                 "name": "minecraft:brick_block"
             }
         ],
@@ -23778,6 +23506,76 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:brick_block"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_deepslate"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:deepslate_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:deepslate_tiles"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:cobbled_deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:polished_deepslate"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobbled_deepslate"
             }
         ]
     },
@@ -24035,84 +23833,6 @@
         "block": "stonecutter",
         "input": [
             {
-                "name": "minecraft:cobbled_deepslate"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_deepslate"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:cobbled_deepslate"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:cobbled_deepslate"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:deepslate_bricks"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:cobbled_deepslate"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:cobbled_deepslate"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:deepslate_tiles"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:cobbled_deepslate"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:cobbled_deepslate"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:polished_deepslate"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "meta": 32767,
-                "name": "minecraft:cobbled_deepslate"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
                 "name": "minecraft:cobblestone"
             }
         ],
@@ -24126,6 +23846,23 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:deepslate_bricks"
+            }
+        ],
+        "output": [
+            "minecraft:deepslate_tiles"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:deepslate_bricks"
             }
         ]
     },
@@ -24255,25 +23992,6 @@
         "block": "stonecutter",
         "input": [
             {
-                "name": "minecraft:deepslate_bricks"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:deepslate_tiles"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:deepslate_bricks"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
                 "name": "minecraft:deepslate_tiles"
             }
         ],
@@ -24359,12 +24077,9 @@
             }
         ],
         "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:end_brick_stairs"
-            }
+            "minecraft:end_bricks"
         ],
-        "priority": 1,
+        "priority": 3,
         "unlockingIngredients": [
             {
                 "name": "minecraft:end_stone"
@@ -24380,10 +24095,11 @@
         ],
         "output": [
             {
-                "name": "minecraft:end_bricks"
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:end_brick_stairs"
             }
         ],
-        "priority": 3,
+        "priority": 1,
         "unlockingIngredients": [
             {
                 "name": "minecraft:end_stone"
@@ -24428,6 +24144,40 @@
             {
                 "meta": 32767,
                 "name": "minecraft:nether_brick"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:polished_deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:deepslate_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:polished_deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:polished_deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:deepslate_tiles"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:polished_deepslate"
             }
         ]
     },
@@ -24621,44 +24371,6 @@
         "block": "stonecutter",
         "input": [
             {
-                "name": "minecraft:polished_deepslate"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:deepslate_bricks"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:polished_deepslate"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:polished_deepslate"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:deepslate_tiles"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:polished_deepslate"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
                 "name": "minecraft:prismarine"
             }
         ],
@@ -24744,6 +24456,40 @@
             }
         ],
         "output": [
+            "minecraft:chiseled_red_sandstone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ],
+        "output": [
+            "minecraft:cut_red_sandstone"
+        ],
+        "priority": 1,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:red_sandstone"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
                 "name": "minecraft:red_sandstone_stairs"
@@ -24801,18 +24547,16 @@
         "block": "stonecutter",
         "input": [
             {
-                "name": "minecraft:red_sandstone"
+                "name": "minecraft:sandstone"
             }
         ],
         "output": [
-            {
-                "name": "minecraft:chiseled_red_sandstone"
-            }
+            "minecraft:chiseled_sandstone"
         ],
         "priority": 0,
         "unlockingIngredients": [
             {
-                "name": "minecraft:red_sandstone"
+                "name": "minecraft:sandstone"
             }
         ]
     },
@@ -24820,18 +24564,16 @@
         "block": "stonecutter",
         "input": [
             {
-                "name": "minecraft:red_sandstone"
+                "name": "minecraft:sandstone"
             }
         ],
         "output": [
-            {
-                "name": "minecraft:cut_red_sandstone"
-            }
+            "minecraft:cut_sandstone"
         ],
         "priority": 1,
         "unlockingIngredients": [
             {
-                "name": "minecraft:red_sandstone"
+                "name": "minecraft:sandstone"
             }
         ]
     },
@@ -24900,44 +24642,6 @@
         "block": "stonecutter",
         "input": [
             {
-                "name": "minecraft:sandstone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_sandstone"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:sandstone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:cut_sandstone"
-            }
-        ],
-        "priority": 1,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:sandstone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
                 "name": "minecraft:smooth_sandstone"
             }
         ],
@@ -24951,6 +24655,40 @@
         "unlockingIngredients": [
             {
                 "name": "minecraft:smooth_sandstone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:stone"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_stone_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:stone"
+            }
+        ],
+        "output": [
+            "minecraft:stone_bricks"
+        ],
+        "priority": 4,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
             }
         ]
     },
@@ -25050,44 +24788,6 @@
             }
         ],
         "priority": 3,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:stone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:stone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:chiseled_stone_bricks"
-            }
-        ],
-        "priority": 0,
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:stone"
-            }
-        ]
-    },
-    {
-        "block": "stonecutter",
-        "input": [
-            {
-                "name": "minecraft:stone"
-            }
-        ],
-        "output": [
-            {
-                "name": "minecraft:stone_bricks"
-            }
-        ],
-        "priority": 4,
         "unlockingIngredients": [
             {
                 "name": "minecraft:stone"
