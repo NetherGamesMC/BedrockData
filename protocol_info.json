@@ -1,11 +1,11 @@
 {
     "version": {
         "major": 1,
-        "minor": 21,
-        "patch": 130,
-        "revision": 28,
+        "minor": 26,
+        "patch": 0,
+        "revision": 29,
         "beta": false,
-        "protocol_version": 897
+        "protocol_version": 924
     },
     "packets": {
         "LoginPacket": 1,
@@ -218,6 +218,13 @@
         "ServerboundPackSettingChangePacket": 329,
         "ClientboundDataStorePacket": 330,
         "GraphicsOverrideParameterPacket": 331,
-        "ServerboundDataStorePacket": 332
+        "ServerboundDataStorePacket": 332,
+        "ClientboundDataDrivenUIShowScreenPacket": 333,
+        "ClientboundDataDrivenUICloseAllScreensPacket": 334,
+        "ClientboundDataDrivenUIReloadPacket": 335,
+        "ClientboundTextureShiftPacket": 336,
+        "VoxelShapesPacket": 337,
+        "CameraSplinePacket": 338,
+        "CameraAimAssistActorPriorityPacket": 339
     }
 }
