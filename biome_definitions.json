@@ -252,7 +252,9 @@
             "monster",
             "ocean",
             "overworld",
-            "spawns_cold_variant_farm_animals"
+            "spawns_cold_variant_farm_animals",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
@@ -375,7 +377,9 @@
             "monster",
             "ocean",
             "overworld",
-            "spawns_cold_variant_farm_animals"
+            "spawns_cold_variant_farm_animals",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
@@ -422,7 +426,9 @@
             "overworld",
             "spawns_cold_variant_farm_animals",
             "spawns_cold_variant_frogs",
-            "spawns_polar_bears_on_alternate_blocks"
+            "spawns_polar_bears_on_alternate_blocks",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
@@ -445,7 +451,9 @@
             "monster",
             "ocean",
             "overworld",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
@@ -467,7 +475,9 @@
             "monster",
             "ocean",
             "overworld",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
@@ -490,7 +500,9 @@
             "ocean",
             "overworld",
             "warm",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
@@ -791,7 +803,9 @@
             "spawns_cold_variant_farm_animals",
             "spawns_cold_variant_frogs",
             "spawns_snow_foxes",
-            "spawns_white_rabbits"
+            "spawns_white_rabbits",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0
     },
@@ -1139,7 +1153,9 @@
             "ocean",
             "overworld",
             "spawns_cold_variant_farm_animals",
-            "spawns_polar_bears_on_alternate_blocks"
+            "spawns_polar_bears_on_alternate_blocks",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0
     },
@@ -1161,7 +1177,9 @@
             "monster",
             "ocean",
             "overworld",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
@@ -1206,7 +1224,8 @@
             "monster",
             "spawns_slimes_on_surface",
             "spawns_warm_variant_farm_animals",
-            "spawns_warm_variant_frogs"
+            "spawns_warm_variant_frogs",
+            "slime"
         ],
         "temperature": 0.8
     },
@@ -1302,7 +1321,8 @@
             "monster",
             "overworld",
             "spawns_mesa_mobs",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "surface_mineshaft"
         ],
         "temperature": 2
     },
@@ -1326,7 +1346,8 @@
             "mutated",
             "overworld",
             "spawns_mesa_mobs",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "surface_mineshaft"
         ],
         "temperature": 2
     },
@@ -1351,7 +1372,8 @@
             "plateau",
             "rare",
             "spawns_mesa_mobs",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "surface_mineshaft"
         ],
         "temperature": 2
     },
@@ -1377,7 +1399,8 @@
             "plateau",
             "stone",
             "spawns_mesa_mobs",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "surface_mineshaft"
         ],
         "temperature": 2
     },
@@ -1403,7 +1426,8 @@
             "rare",
             "stone",
             "spawns_mesa_mobs",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "surface_mineshaft"
         ],
         "temperature": 2
     },
@@ -1428,7 +1452,8 @@
             "overworld",
             "plateau",
             "spawns_mesa_mobs",
-            "spawns_warm_variant_farm_animals"
+            "spawns_warm_variant_farm_animals",
+            "surface_mineshaft"
         ],
         "temperature": 2
     },
@@ -1489,7 +1514,9 @@
         "tags": [
             "monster",
             "ocean",
-            "overworld"
+            "overworld",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
@@ -1882,7 +1909,9 @@
             "monster",
             "overworld",
             "swamp",
-            "spawns_slimes_on_surface"
+            "spawns_slimes_on_surface",
+            "slime",
+            "swamp_water_huge_mushroom"
         ],
         "temperature": 0.8
     },
@@ -1905,7 +1934,9 @@
             "mutated",
             "swamp",
             "overworld_generation",
-            "spawns_slimes_on_surface"
+            "spawns_slimes_on_surface",
+            "slime",
+            "swamp_water_huge_mushroom"
         ],
         "temperature": 0.8
     },
@@ -2020,7 +2051,9 @@
             "overworld",
             "warm",
             "spawns_warm_variant_farm_animals",
-            "spawns_warm_variant_frogs"
+            "spawns_warm_variant_frogs",
+            "fast_fishing",
+            "high_seas"
         ],
         "temperature": 0.5
     },
