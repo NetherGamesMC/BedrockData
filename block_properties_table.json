@@ -4976,6 +4976,15 @@
         "hardness": 3.0,
         "opacity": 1.0
     },
+    "minecraft:golden_dandelion": {
+        "blastResistance": 0.0,
+        "brightness": 0.0,
+        "flameEncouragement": 60,
+        "flammability": 100,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.0
+    },
     "minecraft:golden_rail": {
         "blastResistance": 0.699999988079071,
         "brightness": 0.0,

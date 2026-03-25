@@ -8917,6 +8917,38 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:dandelion"
+            }
+        },
+        "output": [
+            "minecraft:golden_dandelion"
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:gold_nugget"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:dandelion"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:gold_nugget"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:melon_slice"
             }
         },
@@ -35503,6 +35535,39 @@
             {
                 "meta": 32767,
                 "name": "minecraft:furnace"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "tag": "minecraft:metal_nuggets"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:paper"
+            }
+        },
+        "output": [
+            "minecraft:name_tag"
+        ],
+        "priority": 0,
+        "shape": [
+            " A",
+            "B "
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:name_tag"
+            },
+            {
+                "tag": "minecraft:metal_nuggets"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:paper"
             }
         ]
     },
