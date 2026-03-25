@@ -5435,6 +5435,34 @@
             },
             {
                 "meta": 32767,
+                "name": "minecraft:golden_dandelion"
+            }
+        ],
+        "output": [
+            {
+                "meta": 5,
+                "name": "minecraft:suspicious_stew"
+            }
+        ],
+        "priority": 0
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:brown_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:red_mushroom"
+            },
+            {
+                "meta": 32767,
+                "name": "minecraft:bowl"
+            },
+            {
+                "meta": 32767,
                 "name": "minecraft:lily_of_the_valley"
             }
         ],
@@ -18819,6 +18847,23 @@
         "block": "crafting_table",
         "input": [
             {
+                "name": "minecraft:golden_dandelion"
+            }
+        ],
+        "output": [
+            "minecraft:yellow_dye"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:golden_dandelion"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": [
+            {
                 "name": "minecraft:gray_dye"
             },
             {
@@ -20052,10 +20097,93 @@
             }
         ],
         "output": [
+            "minecraft:chiseled_stone_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ],
+        "output": [
+            "minecraft:stone_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:stone_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ],
+        "output": [
             {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 2,
                 "name": "minecraft:cobblestone_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:stone_brick_slab"
             }
         ],
         "priority": 0,
@@ -20081,6 +20209,28 @@
             }
         ],
         "priority": 2,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:cobblestone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:stone_brick_wall"
+            }
+        ],
+        "priority": 0,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -20352,6 +20502,369 @@
             {
                 "meta": 32767,
                 "name": "minecraft:dark_prismarine"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:chiseled_deepslate"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:cobbled_deepslate"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:deepslate_bricks"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:deepslate_tiles"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            "minecraft:polished_deepslate"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:cobbled_deepslate_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:deepslate_brick_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:deepslate_tile_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:polished_deepslate_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:cobbled_deepslate_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:deepslate_brick_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:deepslate_tile_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:polished_deepslate_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:cobbled_deepslate_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:deepslate_brick_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:deepslate_tile_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:polished_deepslate_wall"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:deepslate"
             }
         ]
     },
@@ -24683,6 +25196,23 @@
             }
         ],
         "output": [
+            "minecraft:cobblestone"
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:stone"
+            }
+        ],
+        "output": [
             "minecraft:stone_bricks"
         ],
         "priority": 4,
@@ -24741,6 +25271,47 @@
         ],
         "output": [
             {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:stone_stairs"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:stone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "count": 2,
+                "name": "minecraft:cobblestone_slab"
+            }
+        ],
+        "priority": 0,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:stone"
+            }
+        ],
+        "output": [
+            {
                 "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 2,
                 "name": "minecraft:normal_stone_slab"
@@ -24768,6 +25339,26 @@
             }
         ],
         "priority": 1,
+        "unlockingIngredients": [
+            {
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "stonecutter",
+        "input": [
+            {
+                "name": "minecraft:stone"
+            }
+        ],
+        "output": [
+            {
+                "block_states": "CgAACBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAA",
+                "name": "minecraft:cobblestone_wall"
+            }
+        ],
+        "priority": 0,
         "unlockingIngredients": [
             {
                 "name": "minecraft:stone"

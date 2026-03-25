@@ -2,10 +2,10 @@
     "version": {
         "major": 1,
         "minor": 26,
-        "patch": 0,
-        "revision": 29,
+        "patch": 10,
+        "revision": 4,
         "beta": false,
-        "protocol_version": 924
+        "protocol_version": 944
     },
     "packets": {
         "LoginPacket": 1,
@@ -220,11 +220,17 @@
         "GraphicsOverrideParameterPacket": 331,
         "ServerboundDataStorePacket": 332,
         "ClientboundDataDrivenUIShowScreenPacket": 333,
-        "ClientboundDataDrivenUICloseAllScreensPacket": 334,
+        "ClientboundDataDrivenUICloseScreenPacket": 334,
         "ClientboundDataDrivenUIReloadPacket": 335,
         "ClientboundTextureShiftPacket": 336,
         "VoxelShapesPacket": 337,
         "CameraSplinePacket": 338,
-        "CameraAimAssistActorPriorityPacket": 339
+        "CameraAimAssistActorPriorityPacket": 339,
+        "ResourcePacksReadyForValidationPacket": 340,
+        "LocatorBarPacket": 341,
+        "PartyChangedPacket": 342,
+        "ServerboundDataDrivenScreenClosedPacket": 343,
+        "SyncWorldClocksPacket": 344,
+        "ClientboundAttributeLayerSyncPacket": 345
     }
 }
