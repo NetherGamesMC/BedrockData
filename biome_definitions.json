@@ -2181,6 +2181,8 @@
         "whiteAshDensity": 0
     },
     "minecraft:sulfur_caves": {
+        "ashDensity": 0,
+        "blueSporeDensity": 0,
         "depth": 0.1,
         "downfall": 0.4,
         "foliageSnow": 0,
@@ -2192,6 +2194,7 @@
             "r": 96
         },
         "rain": true,
+        "redSporeDensity": 0,
         "scale": 0.2,
         "tags": [
             "caves",
@@ -2199,7 +2202,8 @@
             "overworld",
             "monster"
         ],
-        "temperature": 0.8
+        "temperature": 0.8,
+        "whiteAshDensity": 0
     },
     "minecraft:sunflower_plains": {
         "ashDensity": 0,
