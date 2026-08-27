@@ -10,7 +10,7 @@
         "output": [
             "minecraft:netherite_scrap"
         ],
-        "priority": 0,
+        "priority": 180,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -29,7 +29,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -48,7 +48,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -67,7 +67,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -86,7 +86,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -105,7 +105,7 @@
         "output": [
             "minecraft:coal"
         ],
-        "priority": 0,
+        "priority": 250,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -124,7 +124,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -143,7 +143,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -162,7 +162,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -181,7 +181,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -200,7 +200,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -219,7 +219,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -238,7 +238,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -257,7 +257,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -276,7 +276,7 @@
         "output": [
             "minecraft:copper_ingot"
         ],
-        "priority": 0,
+        "priority": 140,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -295,7 +295,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -314,7 +314,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -333,7 +333,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -352,7 +352,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -371,7 +371,7 @@
         "output": [
             "minecraft:coal"
         ],
-        "priority": 0,
+        "priority": 250,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -390,7 +390,7 @@
         "output": [
             "minecraft:copper_ingot"
         ],
-        "priority": 0,
+        "priority": 140,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -409,7 +409,7 @@
         "output": [
             "minecraft:diamond"
         ],
-        "priority": 0,
+        "priority": 260,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -428,7 +428,7 @@
         "output": [
             "minecraft:emerald"
         ],
-        "priority": 0,
+        "priority": 270,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -447,7 +447,7 @@
         "output": [
             "minecraft:gold_ingot"
         ],
-        "priority": 0,
+        "priority": 120,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -466,7 +466,7 @@
         "output": [
             "minecraft:iron_ingot"
         ],
-        "priority": 0,
+        "priority": 100,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -485,7 +485,7 @@
         "output": [
             "minecraft:lapis_lazuli"
         ],
-        "priority": 0,
+        "priority": 280,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -504,7 +504,7 @@
         "output": [
             "minecraft:redstone"
         ],
-        "priority": 0,
+        "priority": 290,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -523,7 +523,7 @@
         "output": [
             "minecraft:diamond"
         ],
-        "priority": 0,
+        "priority": 260,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -542,7 +542,7 @@
         "output": [
             "minecraft:emerald"
         ],
-        "priority": 0,
+        "priority": 270,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -561,7 +561,7 @@
         "output": [
             "minecraft:gold_ingot"
         ],
-        "priority": 0,
+        "priority": 120,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -580,7 +580,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -599,7 +599,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -618,7 +618,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -637,7 +637,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -656,7 +656,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -675,7 +675,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -694,7 +694,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -713,7 +713,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -732,7 +732,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -751,7 +751,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -770,7 +770,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -789,7 +789,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -808,7 +808,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -827,7 +827,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -846,7 +846,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -865,7 +865,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -884,7 +884,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -903,7 +903,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -922,7 +922,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -941,7 +941,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -960,7 +960,7 @@
         "output": [
             "minecraft:iron_ingot"
         ],
-        "priority": 0,
+        "priority": 100,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -979,7 +979,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -998,7 +998,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1017,7 +1017,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1036,7 +1036,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1055,7 +1055,7 @@
         "output": [
             "minecraft:lapis_lazuli"
         ],
-        "priority": 0,
+        "priority": 280,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1074,7 +1074,7 @@
         "output": [
             "minecraft:gold_ingot"
         ],
-        "priority": 0,
+        "priority": 120,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1093,7 +1093,7 @@
         "output": [
             "minecraft:quartz"
         ],
-        "priority": 0,
+        "priority": 230,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1112,7 +1112,7 @@
         "output": [
             "minecraft:copper_ingot"
         ],
-        "priority": 0,
+        "priority": 140,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1131,7 +1131,7 @@
         "output": [
             "minecraft:gold_ingot"
         ],
-        "priority": 0,
+        "priority": 120,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1150,7 +1150,7 @@
         "output": [
             "minecraft:iron_ingot"
         ],
-        "priority": 0,
+        "priority": 100,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1169,7 +1169,7 @@
         "output": [
             "minecraft:redstone"
         ],
-        "priority": 0,
+        "priority": 290,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1188,7 +1188,7 @@
         "output": [
             "minecraft:cooked_beef"
         ],
-        "priority": 0,
+        "priority": 30,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1207,7 +1207,7 @@
         "output": [
             "minecraft:cooked_chicken"
         ],
-        "priority": 0,
+        "priority": 50,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1226,7 +1226,7 @@
         "output": [
             "minecraft:cooked_cod"
         ],
-        "priority": 0,
+        "priority": 60,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1245,7 +1245,7 @@
         "output": [
             "minecraft:dried_kelp"
         ],
-        "priority": 0,
+        "priority": 80,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1283,7 +1283,7 @@
         "output": [
             "minecraft:cooked_porkchop"
         ],
-        "priority": 0,
+        "priority": 10,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1302,7 +1302,7 @@
         "output": [
             "minecraft:baked_potato"
         ],
-        "priority": 0,
+        "priority": 40,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1321,7 +1321,7 @@
         "output": [
             "minecraft:cooked_rabbit"
         ],
-        "priority": 0,
+        "priority": 70,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -1340,7 +1340,7 @@
         "output": [
             "minecraft:cooked_salmon"
         ],
-        "priority": 0,
+        "priority": 20,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21054,7 +21054,7 @@
                 "name": "minecraft:smooth_quartz"
             }
         ],
-        "priority": 0,
+        "priority": 390,
         "unlockingIngredients": [
             {
                 "block_states": "CgAACAsAcGlsbGFyX2F4aXMBAHkA",
@@ -21076,7 +21076,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21095,7 +21095,7 @@
         "output": [
             "minecraft:netherite_scrap"
         ],
-        "priority": 0,
+        "priority": 180,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21117,7 +21117,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21139,7 +21139,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21158,7 +21158,7 @@
         "output": [
             "minecraft:smooth_basalt"
         ],
-        "priority": 0,
+        "priority": 380,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21177,7 +21177,7 @@
         "output": [
             "minecraft:cooked_beef"
         ],
-        "priority": 0,
+        "priority": 30,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21199,7 +21199,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21221,7 +21221,7 @@
                 "name": "minecraft:black_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 520,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21243,7 +21243,7 @@
                 "name": "minecraft:blue_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 480,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21265,7 +21265,7 @@
                 "name": "minecraft:brown_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 490,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21284,7 +21284,7 @@
         "output": [
             "minecraft:green_dye"
         ],
-        "priority": 0,
+        "priority": 200,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21303,7 +21303,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21322,7 +21322,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21341,7 +21341,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21360,7 +21360,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21382,7 +21382,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21401,7 +21401,7 @@
         "output": [
             "minecraft:cooked_chicken"
         ],
-        "priority": 0,
+        "priority": 50,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21420,7 +21420,7 @@
         "output": [
             "minecraft:popped_chorus_fruit"
         ],
-        "priority": 0,
+        "priority": 220,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21439,7 +21439,7 @@
         "output": [
             "minecraft:hardened_clay"
         ],
-        "priority": 0,
+        "priority": 440,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21458,7 +21458,7 @@
         "output": [
             "minecraft:brick"
         ],
-        "priority": 0,
+        "priority": 160,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21477,7 +21477,7 @@
         "output": [
             "minecraft:coal"
         ],
-        "priority": 0,
+        "priority": 250,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21499,7 +21499,7 @@
                 "name": "minecraft:deepslate"
             }
         ],
-        "priority": 0,
+        "priority": 430,
         "unlockingIngredients": [
             {
                 "name": "minecraft:cobbled_deepslate"
@@ -21517,7 +21517,7 @@
         "output": [
             "minecraft:stone"
         ],
-        "priority": 0,
+        "priority": 360,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21536,7 +21536,7 @@
         "output": [
             "minecraft:cooked_cod"
         ],
-        "priority": 0,
+        "priority": 60,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21555,7 +21555,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21574,7 +21574,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21593,7 +21593,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21612,7 +21612,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21631,7 +21631,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21650,7 +21650,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21669,7 +21669,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21688,7 +21688,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21707,7 +21707,7 @@
         "output": [
             "minecraft:copper_ingot"
         ],
-        "priority": 0,
+        "priority": 140,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21726,7 +21726,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21745,7 +21745,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21764,7 +21764,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21783,7 +21783,7 @@
         "output": [
             "minecraft:copper_nugget"
         ],
-        "priority": 0,
+        "priority": 150,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21805,7 +21805,7 @@
                 "name": "minecraft:cyan_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 600,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21827,7 +21827,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21846,7 +21846,7 @@
         "output": [
             "minecraft:cracked_deepslate_bricks"
         ],
-        "priority": 0,
+        "priority": 310,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21865,7 +21865,7 @@
         "output": [
             "minecraft:coal"
         ],
-        "priority": 0,
+        "priority": 250,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21884,7 +21884,7 @@
         "output": [
             "minecraft:copper_ingot"
         ],
-        "priority": 0,
+        "priority": 140,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21903,7 +21903,7 @@
         "output": [
             "minecraft:diamond"
         ],
-        "priority": 0,
+        "priority": 260,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21922,7 +21922,7 @@
         "output": [
             "minecraft:emerald"
         ],
-        "priority": 0,
+        "priority": 270,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21941,7 +21941,7 @@
         "output": [
             "minecraft:gold_ingot"
         ],
-        "priority": 0,
+        "priority": 120,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21960,7 +21960,7 @@
         "output": [
             "minecraft:iron_ingot"
         ],
-        "priority": 0,
+        "priority": 100,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21979,7 +21979,7 @@
         "output": [
             "minecraft:lapis_lazuli"
         ],
-        "priority": 0,
+        "priority": 280,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -21998,7 +21998,7 @@
         "output": [
             "minecraft:redstone"
         ],
-        "priority": 0,
+        "priority": 290,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22017,7 +22017,7 @@
         "output": [
             "minecraft:cracked_deepslate_tiles"
         ],
-        "priority": 0,
+        "priority": 320,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22036,7 +22036,7 @@
         "output": [
             "minecraft:diamond"
         ],
-        "priority": 0,
+        "priority": 260,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22055,7 +22055,7 @@
         "output": [
             "minecraft:emerald"
         ],
-        "priority": 0,
+        "priority": 270,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22074,7 +22074,7 @@
         "output": [
             "minecraft:gold_ingot"
         ],
-        "priority": 0,
+        "priority": 120,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22093,7 +22093,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22112,7 +22112,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22131,7 +22131,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22150,7 +22150,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22169,7 +22169,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22188,7 +22188,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22207,7 +22207,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22226,7 +22226,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22245,7 +22245,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22264,7 +22264,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22283,7 +22283,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22302,7 +22302,7 @@
         "output": [
             "minecraft:gold_nugget"
         ],
-        "priority": 0,
+        "priority": 130,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22324,7 +22324,7 @@
                 "name": "minecraft:gray_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 580,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22346,7 +22346,7 @@
                 "name": "minecraft:green_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 500,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22365,7 +22365,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22384,7 +22384,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22403,7 +22403,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22422,7 +22422,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22441,7 +22441,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22460,7 +22460,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22479,7 +22479,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22498,7 +22498,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22517,7 +22517,7 @@
         "output": [
             "minecraft:iron_ingot"
         ],
-        "priority": 0,
+        "priority": 100,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22536,7 +22536,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22555,7 +22555,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22574,7 +22574,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22593,7 +22593,7 @@
         "output": [
             "minecraft:iron_nugget"
         ],
-        "priority": 0,
+        "priority": 110,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22615,7 +22615,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22634,7 +22634,7 @@
         "output": [
             "minecraft:dried_kelp"
         ],
-        "priority": 0,
+        "priority": 80,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22653,7 +22653,7 @@
         "output": [
             "minecraft:lapis_lazuli"
         ],
-        "priority": 0,
+        "priority": 280,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22675,7 +22675,7 @@
                 "name": "minecraft:light_blue_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 540,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22697,7 +22697,7 @@
                 "name": "minecraft:silver_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 590,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22719,7 +22719,7 @@
                 "name": "minecraft:lime_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 560,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22741,7 +22741,7 @@
                 "name": "minecraft:magenta_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 530,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22763,7 +22763,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22782,7 +22782,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22801,7 +22801,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22839,7 +22839,7 @@
         "output": [
             "minecraft:cracked_nether_bricks"
         ],
-        "priority": 0,
+        "priority": 330,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22858,7 +22858,7 @@
         "output": [
             "minecraft:gold_ingot"
         ],
-        "priority": 0,
+        "priority": 120,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22877,7 +22877,7 @@
         "output": [
             "minecraft:netherbrick"
         ],
-        "priority": 0,
+        "priority": 170,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22899,7 +22899,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22921,7 +22921,7 @@
                 "name": "minecraft:orange_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 460,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22943,7 +22943,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22965,7 +22965,7 @@
                 "name": "minecraft:pink_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 570,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -22984,7 +22984,7 @@
         "output": [
             "minecraft:cracked_polished_blackstone_bricks"
         ],
-        "priority": 0,
+        "priority": 340,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23003,7 +23003,7 @@
         "output": [
             "minecraft:cooked_porkchop"
         ],
-        "priority": 0,
+        "priority": 10,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23022,7 +23022,7 @@
         "output": [
             "minecraft:baked_potato"
         ],
-        "priority": 0,
+        "priority": 40,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23044,7 +23044,7 @@
                 "name": "minecraft:purple_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 470,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23063,7 +23063,7 @@
         "output": [
             "minecraft:quartz"
         ],
-        "priority": 0,
+        "priority": 230,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23082,7 +23082,7 @@
         "output": [
             "minecraft:cooked_rabbit"
         ],
-        "priority": 0,
+        "priority": 70,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23101,7 +23101,7 @@
         "output": [
             "minecraft:copper_ingot"
         ],
-        "priority": 0,
+        "priority": 140,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23120,7 +23120,7 @@
         "output": [
             "minecraft:gold_ingot"
         ],
-        "priority": 0,
+        "priority": 120,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23139,7 +23139,7 @@
         "output": [
             "minecraft:iron_ingot"
         ],
-        "priority": 0,
+        "priority": 100,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23158,7 +23158,7 @@
         "output": [
             "minecraft:glass"
         ],
-        "priority": 0,
+        "priority": 300,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23180,7 +23180,7 @@
                 "name": "minecraft:red_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 510,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23199,7 +23199,7 @@
         "output": [
             "minecraft:redstone"
         ],
-        "priority": 0,
+        "priority": 290,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23218,7 +23218,7 @@
         "output": [
             "minecraft:resin_brick"
         ],
-        "priority": 0,
+        "priority": 190,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23237,7 +23237,7 @@
         "output": [
             "minecraft:cooked_salmon"
         ],
-        "priority": 0,
+        "priority": 20,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23256,7 +23256,7 @@
         "output": [
             "minecraft:lime_dye"
         ],
-        "priority": 0,
+        "priority": 210,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23278,7 +23278,7 @@
                 "name": "minecraft:leaf_litter"
             }
         ],
-        "priority": 0,
+        "priority": 240,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23297,7 +23297,7 @@
         "output": [
             "minecraft:cracked_stone_bricks"
         ],
-        "priority": 0,
+        "priority": 350,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23316,7 +23316,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23335,7 +23335,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23354,7 +23354,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23373,7 +23373,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23392,7 +23392,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23411,7 +23411,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23430,7 +23430,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23449,7 +23449,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": 0,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23468,9 +23468,10 @@
         "output": [
             "minecraft:sponge"
         ],
-        "priority": 0,
+        "priority": 610,
         "unlockingIngredients": [
             {
+                "meta": 32767,
                 "name": "minecraft:sponge"
             }
         ]
@@ -23489,7 +23490,7 @@
                 "name": "minecraft:white_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 450,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23511,7 +23512,7 @@
                 "name": "minecraft:yellow_glazed_terracotta"
             }
         ],
-        "priority": 0,
+        "priority": 550,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23529,7 +23530,7 @@
         "output": [
             "minecraft:smooth_red_sandstone"
         ],
-        "priority": 0,
+        "priority": 400,
         "unlockingIngredients": [
             {
                 "name": "minecraft:red_sandstone"
@@ -23546,7 +23547,7 @@
         "output": [
             "minecraft:glass"
         ],
-        "priority": 0,
+        "priority": 300,
         "unlockingIngredients": [
             {
                 "name": "minecraft:sand"
@@ -23563,7 +23564,7 @@
         "output": [
             "minecraft:smooth_sandstone"
         ],
-        "priority": 0,
+        "priority": 410,
         "unlockingIngredients": [
             {
                 "name": "minecraft:sandstone"
@@ -23580,7 +23581,7 @@
         "output": [
             "minecraft:smooth_stone"
         ],
-        "priority": 0,
+        "priority": 370,
         "unlockingIngredients": [
             {
                 "name": "minecraft:stone"
@@ -23597,7 +23598,7 @@
         "output": [
             "minecraft:charcoal"
         ],
-        "priority": -1,
+        "priority": 90,
         "unlockingIngredients": [
             {
                 "tag": "minecraft:logs_that_burn"
@@ -23615,7 +23616,7 @@
         "output": [
             "minecraft:cooked_beef"
         ],
-        "priority": 0,
+        "priority": 30,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23634,7 +23635,7 @@
         "output": [
             "minecraft:cooked_chicken"
         ],
-        "priority": 0,
+        "priority": 50,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23653,7 +23654,7 @@
         "output": [
             "minecraft:cooked_cod"
         ],
-        "priority": 0,
+        "priority": 60,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23672,7 +23673,7 @@
         "output": [
             "minecraft:dried_kelp"
         ],
-        "priority": 0,
+        "priority": 80,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23710,7 +23711,7 @@
         "output": [
             "minecraft:cooked_porkchop"
         ],
-        "priority": 0,
+        "priority": 10,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23729,7 +23730,7 @@
         "output": [
             "minecraft:baked_potato"
         ],
-        "priority": 0,
+        "priority": 40,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23748,7 +23749,7 @@
         "output": [
             "minecraft:cooked_rabbit"
         ],
-        "priority": 0,
+        "priority": 70,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23767,7 +23768,7 @@
         "output": [
             "minecraft:cooked_salmon"
         ],
-        "priority": 0,
+        "priority": 20,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23786,7 +23787,7 @@
         "output": [
             "minecraft:cooked_beef"
         ],
-        "priority": 0,
+        "priority": 30,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23805,7 +23806,7 @@
         "output": [
             "minecraft:cooked_chicken"
         ],
-        "priority": 0,
+        "priority": 50,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23824,7 +23825,7 @@
         "output": [
             "minecraft:cooked_cod"
         ],
-        "priority": 0,
+        "priority": 60,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23843,7 +23844,7 @@
         "output": [
             "minecraft:dried_kelp"
         ],
-        "priority": 0,
+        "priority": 80,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23881,7 +23882,7 @@
         "output": [
             "minecraft:cooked_porkchop"
         ],
-        "priority": 0,
+        "priority": 10,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23900,7 +23901,7 @@
         "output": [
             "minecraft:baked_potato"
         ],
-        "priority": 0,
+        "priority": 40,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23919,7 +23920,7 @@
         "output": [
             "minecraft:cooked_rabbit"
         ],
-        "priority": 0,
+        "priority": 70,
         "unlockingIngredients": [
             {
                 "meta": 32767,
@@ -23938,7 +23939,7 @@
         "output": [
             "minecraft:cooked_salmon"
         ],
-        "priority": 0,
+        "priority": 20,
         "unlockingIngredients": [
             {
                 "meta": 32767,

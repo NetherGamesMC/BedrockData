@@ -2843,6 +2843,91 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:soul_sand"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "count": 4,
+                "name": "minecraft:soul_torch"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:soul_soil"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "count": 4,
+                "name": "minecraft:soul_torch"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
+                "count": 4,
+                "name": "minecraft:torch"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:coal_block"
             }
         },
@@ -5552,6 +5637,7 @@
                 "name": "minecraft:dune_armor_trim_smithing_template"
             },
             "C": {
+                "meta": 32767,
                 "name": "minecraft:sandstone"
             }
         },
@@ -5936,6 +6022,7 @@
                 "name": "minecraft:spire_armor_trim_smithing_template"
             },
             "C": {
+                "meta": 32767,
                 "name": "minecraft:purpur_block"
             }
         },
@@ -6138,6 +6225,7 @@
                 "name": "minecraft:tide_armor_trim_smithing_template"
             },
             "C": {
+                "meta": 32767,
                 "name": "minecraft:prismarine"
             }
         },
@@ -9458,6 +9546,7 @@
                 "name": "minecraft:gunpowder"
             },
             "B": {
+                "meta": 32767,
                 "name": "minecraft:sand"
             }
         },
@@ -11225,6 +11314,36 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:stone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
+                "name": "minecraft:stonecutter_block"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            " A ",
+            "BBB"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:stone"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:iron_ingot"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:stone_pressure_plate"
             },
             "C": {
@@ -11272,34 +11391,6 @@
             "AA",
             "BB",
             "BB"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:iron_ingot"
-            },
-            "B": {
-                "name": "minecraft:stone"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAbm9ydGgA",
-                "name": "minecraft:stonecutter_block"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            " A ",
-            "BBB"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:stone"
-            }
         ]
     },
     {
@@ -13023,6 +13114,31 @@
                 "meta": 32767,
                 "name": "minecraft:lime_wool"
             }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:log2"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:furnace"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
+                "name": "minecraft:smoker"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            " A ",
+            "ABA",
+            " A "
         ]
     },
     {
@@ -16712,6 +16828,34 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:purpur_block"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
+                "count": 4,
+                "name": "minecraft:purpur_stairs"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A  ",
+            "AA ",
+            "AAA"
+        ],
+        "unlockingIngredients": [
+            {
+                "meta": 32767,
+                "name": "minecraft:purpur_block"
+            }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:purpur_pillar"
             }
         },
@@ -18046,6 +18190,58 @@
             },
             "C": {
                 "meta": 32767,
+                "name": "minecraft:log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 0,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:charcoal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:log2"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 0,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:charcoal"
+            },
+            "C": {
+                "meta": 32767,
                 "name": "minecraft:mangrove_log"
             }
         },
@@ -18305,56 +18501,7 @@
                 "name": "minecraft:charcoal"
             },
             "C": {
-                "name": "minecraft:log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 0,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:charcoal"
-            },
-            "C": {
-                "name": "minecraft:log2"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 0,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:charcoal"
-            },
-            "C": {
                 "name": "minecraft:wood"
             }
         },
@@ -18396,6 +18543,422 @@
                 "meta": 32767,
                 "name": "minecraft:cherry_planks"
             }
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:crimson_stem"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:log2"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_wood"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_acacia_log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_birch_log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_crimson_stem"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_dark_oak_log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_jungle_log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 0,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_mangrove_wood"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 50,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_oak_log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_spruce_log"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:stripped_warped_stem"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:warped_stem"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:coal"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:wood"
+            }
+        },
+        "output": [
+            "minecraft:campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
         ]
     },
     {
@@ -18864,6 +19427,58 @@
             },
             "C": {
                 "meta": 32767,
+                "name": "minecraft:log"
+            }
+        },
+        "output": [
+            "minecraft:soul_campfire"
+        ],
+        "priority": 1,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:soul_sand"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:log2"
+            }
+        },
+        "output": [
+            "minecraft:soul_campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:soul_sand"
+            },
+            "C": {
+                "meta": 32767,
                 "name": "minecraft:mangrove_log"
             }
         },
@@ -19201,56 +19816,7 @@
                 "name": "minecraft:soul_sand"
             },
             "C": {
-                "name": "minecraft:log"
-            }
-        },
-        "output": [
-            "minecraft:soul_campfire"
-        ],
-        "priority": 1,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:soul_sand"
-            },
-            "C": {
-                "name": "minecraft:log2"
-            }
-        },
-        "output": [
-            "minecraft:soul_campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:soul_sand"
-            },
-            "C": {
                 "name": "minecraft:wood"
             }
         },
@@ -19303,6 +19869,58 @@
             },
             "C": {
                 "meta": 32767,
+                "name": "minecraft:log"
+            }
+        },
+        "output": [
+            "minecraft:soul_campfire"
+        ],
+        "priority": 1,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:soul_soil"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:log2"
+            }
+        },
+        "output": [
+            "minecraft:soul_campfire"
+        ],
+        "priority": 2,
+        "shape": [
+            " A ",
+            "ABA",
+            "CCC"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
+                "name": "minecraft:soul_soil"
+            },
+            "C": {
+                "meta": 32767,
                 "name": "minecraft:mangrove_log"
             }
         },
@@ -19640,56 +20258,7 @@
                 "name": "minecraft:soul_soil"
             },
             "C": {
-                "name": "minecraft:log"
-            }
-        },
-        "output": [
-            "minecraft:soul_campfire"
-        ],
-        "priority": 1,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:soul_soil"
-            },
-            "C": {
-                "name": "minecraft:log2"
-            }
-        },
-        "output": [
-            "minecraft:soul_campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:soul_soil"
-            },
-            "C": {
                 "name": "minecraft:wood"
             }
         },
@@ -19817,404 +20386,6 @@
                 "meta": 32767,
                 "name": "minecraft:warped_planks"
             }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:crimson_stem"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_wood"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_acacia_log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_birch_log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_crimson_stem"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_dark_oak_log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_jungle_log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_mangrove_log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 0,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_mangrove_wood"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 50,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_oak_log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_spruce_log"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:stripped_warped_stem"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:warped_stem"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "name": "minecraft:log2"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "name": "minecraft:coal"
-            },
-            "C": {
-                "name": "minecraft:wood"
-            }
-        },
-        "output": [
-            "minecraft:campfire"
-        ],
-        "priority": 2,
-        "shape": [
-            " A ",
-            "ABA",
-            "CCC"
         ]
     },
     {
@@ -33831,88 +34002,6 @@
         "input": {
             "A": {
                 "name": "minecraft:coal"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:soul_sand"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
-                "count": 4,
-                "name": "minecraft:soul_torch"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:coal"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:soul_soil"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
-                "count": 4,
-                "name": "minecraft:soul_torch"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:coal"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBYAdG9yY2hfZmFjaW5nX2RpcmVjdGlvbgcAdW5rbm93bgA=",
-                "count": 4,
-                "name": "minecraft:torch"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:coal"
             }
         },
         "output": [
@@ -34701,30 +34790,6 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "name": "minecraft:log2"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:furnace"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACBwAbWluZWNyYWZ0OmNhcmRpbmFsX2RpcmVjdGlvbgUAc291dGgA",
-                "name": "minecraft:smoker"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            " A ",
-            "ABA",
-            " A "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
                 "name": "minecraft:magenta_wool"
             },
             "B": {
@@ -35347,32 +35412,6 @@
             {
                 "meta": 32767,
                 "name": "minecraft:purple_dye"
-            }
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "name": "minecraft:purpur_block"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAA==",
-                "count": 4,
-                "name": "minecraft:purpur_stairs"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "A  ",
-            "AA ",
-            "AAA"
-        ],
-        "unlockingIngredients": [
-            {
-                "name": "minecraft:purpur_block"
             }
         ]
     },

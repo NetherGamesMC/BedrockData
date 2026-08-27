@@ -7649,6 +7649,15 @@
         "hardness": 1.399999976158142,
         "opacity": 1.0
     },
+    "minecraft:orange_poplar_leaves": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 0.5
+    },
     "minecraft:orange_shulker_box": {
         "blastResistance": 2.0,
         "brightness": 0.0,
@@ -8693,6 +8702,159 @@
         "hardness": 1.5,
         "opacity": 0.19999998807907104
     },
+    "minecraft:poplar_button": {
+        "blastResistance": 0.5,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.5,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_door": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_double_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_fence": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_fence_gate": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_hanging_sign": {
+        "blastResistance": 1.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_log": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_planks": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_pressure_plate": {
+        "blastResistance": 0.5,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 0.5,
+        "opacity": 0.7999999970197678
+    },
+    "minecraft:poplar_sapling": {
+        "blastResistance": 0.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 0.0,
+        "opacity": 0.0
+    },
+    "minecraft:poplar_shelf": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_slab": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:poplar_stairs": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 20,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_standing_sign": {
+        "blastResistance": 1.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_trapdoor": {
+        "blastResistance": 3.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 3.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_wall_sign": {
+        "blastResistance": 1.0,
+        "brightness": 0.0,
+        "flameEncouragement": 0,
+        "flammability": 0,
+        "friction": 0.6000000238418579,
+        "hardness": 1.0,
+        "opacity": 0.19999998807907104
+    },
+    "minecraft:poplar_wood": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
     "minecraft:poppy": {
         "blastResistance": 0.0,
         "brightness": 0.0,
@@ -9214,6 +9376,15 @@
         "friction": 0.6000000238418579,
         "hardness": 2.0,
         "opacity": 0.19999998807907104
+    },
+    "minecraft:red_poplar_leaves": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 0.5
     },
     "minecraft:red_sand": {
         "blastResistance": 0.5,
@@ -10250,6 +10421,15 @@
         "hardness": 3.5,
         "opacity": 1.0
     },
+    "minecraft:straw_bed": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 1.0
+    },
     "minecraft:stripped_acacia_log": {
         "blastResistance": 2.0,
         "brightness": 0.0,
@@ -10413,6 +10593,24 @@
         "opacity": 1.0
     },
     "minecraft:stripped_pale_oak_wood": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:stripped_poplar_log": {
+        "blastResistance": 2.0,
+        "brightness": 0.0,
+        "flameEncouragement": 5,
+        "flammability": 5,
+        "friction": 0.6000000238418579,
+        "hardness": 2.0,
+        "opacity": 1.0
+    },
+    "minecraft:stripped_poplar_wood": {
         "blastResistance": 2.0,
         "brightness": 0.0,
         "flameEncouragement": 5,
@@ -12148,6 +12346,15 @@
         "friction": 0.6000000238418579,
         "hardness": 1.399999976158142,
         "opacity": 1.0
+    },
+    "minecraft:yellow_poplar_leaves": {
+        "blastResistance": 0.20000000298023224,
+        "brightness": 0.0,
+        "flameEncouragement": 30,
+        "flammability": 60,
+        "friction": 0.6000000238418579,
+        "hardness": 0.20000000298023224,
+        "opacity": 0.5
     },
     "minecraft:yellow_shulker_box": {
         "blastResistance": 2.0,

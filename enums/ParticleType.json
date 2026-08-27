@@ -99,6 +99,10 @@
         "PaleOakLeaves": 95,
         "EyeblossomOpen": 96,
         "EyeblossomClose": 97,
-        "_count": 98
+        "GreenFlame": 98,
+        "PauseMobGrowth": 99,
+        "ResetMobGrowth": 100,
+        "SulfurCube": 101,
+        "_count": 102
     }
 }

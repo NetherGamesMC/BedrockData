@@ -82,11 +82,11 @@
             "minecraft:cinnabar",
             "minecraft:polished_cinnabar",
             "minecraft:sulfur",
-            "minecraft:polished_sulfur",
             {
                 "block_states": "CgAACBMAcG90ZW50X3N1bGZ1cl9zdGF0ZQMAZHJ5AA==",
                 "name": "minecraft:potent_sulfur"
-            }
+            },
+            "minecraft:polished_sulfur"
         ]
     },
     {
@@ -932,8 +932,7 @@
             "minecraft:zombie_pigman_spawn_egg",
             "minecraft:enderman_spawn_egg",
             "minecraft:endermite_spawn_egg",
-            "minecraft:shulker_spawn_egg",
-            "minecraft:sulfur_cube_spawn_egg"
+            "minecraft:shulker_spawn_egg"
         ]
     },
     {
@@ -1009,21 +1008,6 @@
         "group_name": "",
         "items": [
             "minecraft:reinforced_deepslate"
-        ]
-    },
-    {
-        "group_icon": null,
-        "group_name": "",
-        "items": [
-            "minecraft:sulfur",
-            "minecraft:polished_sulfur",
-            "minecraft:chiseled_sulfur",
-            "minecraft:sulfur_bricks",
-            "minecraft:potent_sulfur",
-            "minecraft:cinnabar",
-            "minecraft:polished_cinnabar",
-            "minecraft:chiseled_cinnabar",
-            "minecraft:cinnabar_bricks"
         ]
     }
 ]
